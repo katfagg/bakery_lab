@@ -23,6 +23,7 @@ const RecipeList = () =>{
         }
     ]
 
+    // .map for iterating array - key required for React WITHIN brackets.
     return (
         <>
             <section>
